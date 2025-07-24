@@ -67,3 +67,18 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+
+# Carpetas compiladas
+/functions/lib
+/functions/node_modules
+
+# Archivos generados automáticamente
+/functions/package-lock.json
+/functions/.eslintcache
+/functions/.firebaserc
+
+# Archivos de configuración local
+/.firebase
+/.firebaserc
+/node_modules
+/package-lock.json
